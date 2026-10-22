@@ -1,0 +1,3 @@
+order_id,customer_id,amount,status,transaction_date,payment_date,unexpected_field
+ORD-201,301,150000.0,PAID,2026-09-20T10:00:00,2026-09-20T10:15:00,EXTRA_COLUMN
+ORD-202,302,220000.0,PENDING,2026-09-20T10:05:00,,UNAUTHORIZED_DATA
